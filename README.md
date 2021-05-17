@@ -1,4 +1,10 @@
-# X-TOKEN
+
+# What is X-TOKEN?​
+X-TOKEN is a frictionless, yield-generating contract where the tokens bought will soon be able to be spent on dApps. The protocol was launched on May 6th, 2021 through an DxSale presale. The token contract employs a static reward system—10% of every transaction is split into two parts—one part is distributed to holders, while the other 5% is used to fuel the liquidity pool on the PancakeSwap decentralized exchange. The tokens are permanently locked in the LP, effectively reducing the available supply. The token was launched with the idea of creating a community token with a self generating income mechanism for its owner.
+
+The static rewards system is a concept that was pioneered by reflect.finance and popularized by Safemoon. It is a great alternative to the usual high-APY liquidity farms out there because of its unusually sustainable approach. The reward amount is conditional upon the volume of the token in the marketplace, thus alleviating sell pressure put on the token by early investors. In addition to all aforementioned, the mechanism encourages token holders to hold on to their tokens in order to earn taxes from the transactions on the market, which is based upon the percentage specified in the contract and dependent on the total tokens held by the owner.
+
+# Mission
 X-Token is the first token that will empower crypto traders, investors, and minorities who have no access to computers. Building decentralized BI applications and donating the usage fees will help cryptomaniacs and minorities alike.
 
 Decentralized crypto currencies got created to give people more freedom and more control over their assets. But at the same time it’s locking out a lot of minorities who can’t even afford a computer nor internet access. All of the fees earned by our dApps (decentralized Applications) will be used to empower minorities and educate them to not be left out in the digital world.
